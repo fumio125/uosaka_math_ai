@@ -8,3 +8,4 @@
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/uosaka_math_ai/blob/master/johoronA_03.ipynb) [第3回：次元の呪い（サクサクメロンパン）の気持ち](johoronA_03.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/uosaka_math_ai/blob/master/johoronA_04.ipynb) [第4回：パノラマ画像を作ってみよう](johoronA_04.ipynb)
 - [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/uosaka_math_ai/blob/master/johoronA_05.ipynb) [第5回：パノラマ画像を作ってみよう その2](johoronA_05.ipynb)
+- [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/fumio125/uosaka_math_ai/blob/master/johoronA_06.ipynb) [第6回：正射影SfM](johoronA_06.ipynb)
